@@ -8,6 +8,8 @@
 * 内部已经对位置进行判定，无需后续处理
 * 方便使用
 
+## 展示
+![](https://github.com/Joyce-X/JJLeader/blob/master/JJLeader/send.gif?raw=true)
 
 ## 使用
 
