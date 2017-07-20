@@ -14,7 +14,8 @@
 ## 使用
 
 * 只需要传入显示的文字，和高亮区域显示为圆形或者举行的枚举和高亮位置即可
-
+* 可以在一个控制器中连续使用，只需要在handler回调中进行嵌套
+* 也可以分别在不同的控制器进行调用，可以在回调中切换控制器
 
 [JJLeadTool presentLeadWithMessage:@"如果还可以请点个星星" frame:CGRectMake(300, 400, 70, 70) lightType:JJHelightTypeCircle completionHandler:nil];
 
