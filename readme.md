@@ -20,3 +20,11 @@
 [JJLeadTool presentLeadWithMessage:@"如果还可以请点个星星" frame:CGRectMake(300, 400, 70, 70) lightType:JJHelightTypeCircle completionHandler:nil];
 
 
+## 字体
+
+### 关于字体的使用需要在plist文件中添加一项
+
+* 在plist文件中新添加一项选择 >Fonts provided by application
+* 内容为字体全名
+* 调用时候传给font的名称为>[UIFont fontWithName:@"Wawati SC" size:27]
+
