@@ -13,7 +13,7 @@
 
 * 只需要传入显示的文字，和高亮区域显示为圆形或者举行的枚举和高亮位置即可
 
-'''
+
 [JJLeadTool presentLeadWithMessage:@"如果还可以请点个星星" frame:CGRectMake(300, 400, 70, 70) lightType:JJHelightTypeCircle completionHandler:nil];
-'''
+
 
